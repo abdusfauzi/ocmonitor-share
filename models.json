@@ -111,7 +111,7 @@
     "contextWindow": 200000,
     "sessionQuota": 6.00
   },
-  "claude-opus-4-5-20251101": {
+  "claude-opus-4.5": {
     "input": 5.00,
     "output": 25.00,
     "cacheWrite": 6.25,
